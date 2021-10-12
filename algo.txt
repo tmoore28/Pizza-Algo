@@ -1,2 +1,7 @@
-Step 1: Order the Pizza
-Step 2: Wait For The Delivery.
+Step 1: Decide what kind of pizza we want.
+Step 2: Order the Pizza through app
+Step 3: Pay on the app.
+Step 4: Wait For The Delivery.
+Step 5: Tip the driver.
+Step 6: Grab hot sauce.
+Step 7: Enjoy pizza.
